@@ -1,0 +1,13 @@
+header{
+    width: 100px;
+    max-width: 400px
+}
+.header{
+    width: 100px;
+    height: 600px;
+    background-color: blue;
+}
+.imagen{
+    height: 400px;
+    width: 600px;
+}

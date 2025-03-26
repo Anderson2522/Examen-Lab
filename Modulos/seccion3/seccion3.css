@@ -1,0 +1,16 @@
+seccion3{
+    padding: 48px 24px;
+    display: flex;
+    gap: 8px; 
+}
+.titulo3{
+    font-size: 20px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.descripcion3{
+    font-size: 16px;
+    
+    color: black;
+    
+}
